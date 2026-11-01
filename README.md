@@ -1,7 +1,9 @@
+<img src="https://i.ibb.co.com/SXxc4Tyx/banner.png" alt="banner" border="0">
+
 <h1 align="center">Hi, I'm Mizanur Rahman</h1>
 <h3 align="center">Building clean, fast & practical websites for businesses</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=web-dev-mizan&label=Profile%20views&color=0e75b6&style=flat" alt="web-dev-mizan" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=web-dev-mizan" alt="web-dev-mizan" /></a> </p>
 
