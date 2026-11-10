@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co.com/Rp9WvdbX/banner.png" alt="banner" border="0">
 <h1 align="center">Hi, I'm Mizanur Rahman</h1>
 <h3 align="center">Independent Web Developer & Designer Building clean, responsive and practical websites for businesses, brands and individuals.</h3>
 
